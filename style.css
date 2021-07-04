@@ -1,11 +1,11 @@
-h1{color: rgb(45, 45, 209);
+h1{color: rgb(0, 207, 180);
 font-size: 70px;
 
 
 
 }
 h3{font-size: 50px;
-    color: purple;
+    color: rgb(126, 0, 126);
 
 
 
@@ -13,8 +13,15 @@ h3{font-size: 50px;
 }
 body{font-family: 'Poppins', sans-serif;}
 
-p{font-size: 30px;}
-colgroup:read-only
+p
+{font-size: 30px;
+
+}
+
+.div{
+    color: teal;
+}
+
 
 .paragraph{
 scroll-padding-inline: 50px;
@@ -31,20 +38,33 @@ section{
     }
     .half-width img{
         width: 100%
+        padding
+        border-left
+        50px
+
     }
-.link-button{
+    .link-button{
     text-decoration: none;
     background-color: rgb(255, 89, 205);
     padding: 10px 40px;
     border-radius: 10px;
-    background-image:linear-gradient(purple, orange);
+    background-image:linear-gradient(rgb(0, 247, 255), rgb(44, 138, 0));
     color: white;
+
     font-weight: 400;
     font-size: 30px;
+
+   
+    
 }
+
+
     
         
-    
+    .top-banner{
+
+
+    }
 
 
 
